@@ -50,7 +50,7 @@ print("prediction CO2 for the corresponding weight and volume",predictCO2)
 
 ```
 ## Output:
-![output](OUTPUT-10.png)
+![output](code.png)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
